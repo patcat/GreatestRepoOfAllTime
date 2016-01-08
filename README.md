@@ -1,2 +1,2 @@
 # GreatestRepoOfAllTime
-This is a wonderful sample repo with some pull requests to illustrate a demo that pulls in pull requests. It isn't actually exciting for any technological breakthroughs of that sort of thing.
+This is a wonderful sample repo with some pull requests to illustrate a demo that pulls in pull requests. It is the most exciting repo to have been created on GitHub.
